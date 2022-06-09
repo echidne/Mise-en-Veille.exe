@@ -10,4 +10,4 @@ Copier le code de [Mise en Veille.bat](https://github.com/echidne/Mise-en-Veille
 
 Puis choisissez la configuration 64 bits avec console visible (2. sur l'image ci-dessus). Profitez en pour associer un icone à l'appli (3. sur l'image). Par exemple [kitty.ico](https://github.com/echidne/Mise-en-Veille.exe/blob/main/kitty.ico).
 
-Et enfin cliquez sur "convert" (4. sur l'image). cla va d'abord sauver votre `.bat` avec le nom que vous souhaitez avant de convertir en `.exe`avec le nom que vous voulez (par exemple: Mise en Veille.exe)
+Et enfin cliquez sur "convert" (4. sur l'image). Cela va d'abord sauver votre `.bat` avec le nom que vous souhaitez avant de convertir en `.exe`avec le nom que vous voulez (par exemple: Mise en Veille.exe)
